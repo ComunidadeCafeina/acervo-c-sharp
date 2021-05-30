@@ -1,5 +1,7 @@
 ## Acervo C#.NET
 
-![Imagem do projeto](Acervo%20C%20Sharp.png)
+<p align="center">
+  <img width="100%" src="acervo-c-sharp.png">
+</p>
 
 Um repositório cooperativo para compartilhar materiais da linguagem C#.
