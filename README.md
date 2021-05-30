@@ -11,6 +11,11 @@ Um repositório colaborativo para compartilhar materiais da linguagem C#.
 
 Acesse o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para obter mais informações de como contribuir nesse projeto.
 
+### Outras dicas
+* Mantenha os links organizados em ordem alfabética
+* Use a aba de [issues](https://github.com/compiladoras/acervo-c-sharp/issues) para obter ideias do que adicionar ou crie uma nova issue!
+* Fique a vontade para adicionar mais sessões (como a de livros). Você pode encontrar mais [emojis do github aqui](https://gist.github.com/rxaviers/7360908)
+
 ---
 
 ### Cursos :mortar_board:
